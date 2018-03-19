@@ -1,5 +1,14 @@
 //Synchronous = javascript can do 1 thing at a time
 
+/*
+    let async = [
+        "Callbacks"     :"good",
+        "Promises"       :"better",
+        "Generators"    :"awesome",
+    ]
+    
+*/
+
 //let article = ReadSync(article_loc);
 console.log("article");
 
